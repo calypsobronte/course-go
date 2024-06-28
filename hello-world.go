@@ -10,3 +10,6 @@ func main() {
 // First hello world program in Go
 // Lina Maria Montaño Ramírez - calypsobronte
 // 2024-06-28
+// build: go build hello-world.go
+// run: ./hello-world
+// output: Hola, mundo
